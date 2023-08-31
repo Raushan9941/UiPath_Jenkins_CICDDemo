@@ -1,4 +1,4 @@
-# UiPath_Jenkins_CICDDemo with Jenkins 
+# UiPath_Jenkins_CICDDemo 
 
 Demo project for the continuous deployment of a UiPath package to an orchestrator. 
 
